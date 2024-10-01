@@ -7,3 +7,6 @@ We utilized the FNO-torch 1.6.0 in this package:  https://github.com/zongyi-li/f
 We also made some modifications using this package: https://github.com/yanyangg/AcousticNeuralOperator
 
 We used Devito to generate the training samples: https://github.com/devitocodes/devito
+
+
+Feel free to contact me if you have any questions: yang.cui512@gmail.com
